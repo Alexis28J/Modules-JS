@@ -2,5 +2,24 @@
   "dependencies": {
     "@labstraction/random-color": "^1.0.1",
     "bootstrap": "^5.3.8"
-  }
+  },
+  "name": "modules-js",
+  "version": "1.0.0",
+  "description": "Lezione di mercoledì 7 gennaio:",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexis28J/Modules-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Alexis28J/Modules-JS/issues"
+  },
+  "homepage": "https://github.com/Alexis28J/Modules-JS#readme"
 }

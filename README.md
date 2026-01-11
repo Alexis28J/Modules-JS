@@ -9,3 +9,5 @@ Lezione di mercoledì 7 gennaio:
    https://italia.github.io/bootstrap-italia/
 
  - Altra libreria JS: https://material.angular.dev/
+
+ - Pagination: https://getbootstrap.com/docs/5.3/components/pagination/

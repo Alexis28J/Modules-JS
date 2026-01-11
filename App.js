@@ -67,6 +67,8 @@ function reduceSummary(summary){
 }
 
 
+
 //TASK:  
 //FARE LA PAGINATION
 //FARE IL DETTAGLIO
+

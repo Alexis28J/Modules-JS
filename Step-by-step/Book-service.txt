@@ -1,0 +1,22 @@
+* Book-service.js
+
+- RIGA 3: La parola chiave static serve per definire membri (proprietà o metodi) che appartengono alla classe stessa 
+          e non alle sue istanze, permettendo di condividerli tra tutti gli oggetti della classe 
+          o di accedervi direttamente tramite la classe senza dover creare un'istanza, 
+          utile per utility, costanti o funzioni legate alla classe e non a dati specifici dell'oggetto. 
+
+
+
+- RIGA 22: Metodo per cercare i libri in base a una query.
+
+In JavaScript, una query (interrogazione) è una richiesta inviata a una sorgente dati (come un database o un'API) 
+per recuperare, filtrare, modificare o eliminare informazioni, utilizzando spesso linguaggi specifici come SQL 
+per i database o protocolli come REST per le API, manipolando dati attraverso stringhe nell'URL (query string) 
+o chiamate asincrone (fetch/AJAX) per interagire con il server
+
+
+
+- RIGA 23: encodeURIComponent(query) in JavaScript codifica una stringa (il valore di query) per essere usata in sicurezza all'interno di un URL, 
+           trasformando caratteri speciali come spazi, &, ?, /, ecc., in sequenze percentuali (es. spazio diventa %20) 
+           per evitare che vengano interpretati come parte della sintassi dell'URL, assicurando così che i dati siano trasmessi correttamente, 
+           specialmente nei parametri di una querystring.
